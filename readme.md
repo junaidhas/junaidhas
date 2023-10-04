@@ -1,8 +1,9 @@
-<img alt="Coding" width="720" src="![python-banner](https://github.com/junaidhas/junaidhas/assets/97498014/6332fab0-cd68-4c12-bdb6-cb3e932ab02a)">
+![I am GitHub Readme Generator's creator](https://www.letsnurture.com/wp-content/uploads/2016/05/python.png)
+
 <h1 align="center">Hi 👋, I'm Junaid Hasan</h1>
 <h3 align="center">Masters in Electrical and Computer Eng.| Passionate ab Python |Turning Code into Magic</h3>
 
-<img align="right" alt="Coding" width="400" src="![coder image](https://github.com/junaidhas/junaidhas/assets/97498014/f621e44e-eede-4c7d-9850-035f2694e0ca)">
+![coder image](https://github.com/junaidhas/junaidhas/assets/97498014/f621e44e-eede-4c7d-9850-035f2694e0ca)
 
 
 - 🌱 I’m currently learning **REST API, Power BI**
