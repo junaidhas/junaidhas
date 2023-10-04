@@ -1,8 +1,8 @@
-[![MasterHead]https://1drv.ms/i/s!AjJL3nOaXfs-4n-cMpaUaByocoeV?e=u44IEO
+<img alt="Coding" width="720" src="![python-banner](https://github.com/junaidhas/junaidhas/assets/97498014/6332fab0-cd68-4c12-bdb6-cb3e932ab02a)">
 <h1 align="center">Hi 👋, I'm Junaid Hasan</h1>
 <h3 align="center">Masters in Electrical and Computer Eng.| Passionate ab Python |Turning Code into Magic</h3>
 
-<img align="right" alt="Coding" width="400" src="https://1drv.ms/i/s!AjJL3nOaXfs-4n6EmK8ppVdruUAn?e=8FKuhM">
+<img align="right" alt="Coding" width="400" src="![coder image](https://github.com/junaidhas/junaidhas/assets/97498014/f621e44e-eede-4c7d-9850-035f2694e0ca)">
 
 
 - 🌱 I’m currently learning **REST API, Power BI**
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/junaid-hasan-mn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junaid-hasan-mn/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/junaid-hasan-mn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junaid-hasan-mn/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
