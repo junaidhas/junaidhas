@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://www.letsnurture.com/wp-content/uploads/2016/05/python.png)
 
 <h1 align="center">Hi 👋, I'm Junaid Hasan</h1>
-<h3 align="center">Masters in Electrical and Computer Eng.| Passionate ab Python |Turning Code into Magic</h3>
+<h3 align="center">Masters in Electrical and Computer Eng.| Passionate about Python |Turning Code into Magic</h3>
 
 ![coder image](https://github.com/junaidhas/junaidhas/assets/97498014/f621e44e-eede-4c7d-9850-035f2694e0ca)
 
