@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **SQL, FLASK**
 
+- 👨‍💻 Portfolio Link **https://junaidhas.github.io/**
+
 - 📫 How to reach me **junaidhasan.mn@gmail.com**
 
 - ⚡ Fun fact **My weekend consists of European football matches followed by political debates – a true test of stamina!**
