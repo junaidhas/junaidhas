@@ -7,7 +7,7 @@
 ![coder image](https://github.com/junaidhas/junaidhas/assets/97498014/f621e44e-eede-4c7d-9850-035f2694e0ca)
 
 
-- 🌱 I’m currently learning **REST API, Power BI**
+- 🌱 I’m currently learning **Verilog,Perl**
 
 - 💬 Ask me about **SQL, FLASK**
 
